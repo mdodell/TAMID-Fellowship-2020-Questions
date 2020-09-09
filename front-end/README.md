@@ -24,6 +24,6 @@
 3. Given two sorted arrays (*arr1*, *arr2*) and a number, *k*, create a method,
 `sortArrays` that returns a sorted array of the first *k* elements. This must be completed in Javascript.
 
-> Bonus points if you can comment the space/time complexity of your method.
-> Bonus points if you do this in O(n).
-> Bonus points if you write this in one line and it runs in O(n*logn)
+   > Bonus points if you can comment the space/time complexity of your method.
+   > Bonus points if you do this in O(n).
+   > Bonus points if you write this in one line and it runs in O(n*logn)
