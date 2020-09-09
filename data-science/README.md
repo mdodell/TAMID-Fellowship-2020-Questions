@@ -18,6 +18,7 @@ conversion (the user installed the app from the advertisement)
 We want to write a couple of queries to extract data from these tables. Write SQL queries to extract the following information:
 
 1) The number of active ads.
+<<<<<<< HEAD
 2) All active campaigns. A campaign is active if there’s at least one active ad.
 3) The number of active campaigns.
 4) The number of events per each ad — broken down by event type.
@@ -36,3 +37,21 @@ We want to write a couple of queries to extract data from these tables. Write SQ
 
    "1/4"
    ```
+=======
+
+
+
+2) All active campaigns. A campaign is active if there’s at least one active ad.
+
+
+
+
+
+3) The number of active campaigns.
+
+
+
+
+
+4) The number of events per each ad — broken down by event type.
+>>>>>>> 91ab0956dff9760473e688c713f977f50e63f472
