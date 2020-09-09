@@ -22,10 +22,17 @@ We want to write a couple of queries to extract data from these tables. Write SQ
 3) The number of active campaigns.
 4) The number of events per each ad — broken down by event type.
 
-1. Calculate a factorial of a number using Python.
+1. Calculate a factorial of a number using Python or R.
 
    ```
    print factorial(5)
 
    "120"
+   ```
+1. Calculate the Jaccard similarity between two sets: the size of the intersection divided by the size of the union.
+
+   ```
+   print jaccard({'a', 'b', 'c'}, {'a', 'd'})
+
+   "1/4"
    ```
