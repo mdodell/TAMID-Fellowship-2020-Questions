@@ -15,6 +15,8 @@
    `inner_div` should be a box with 50% of the width and height of `outer_div`. It should
    have a white dotted border of 3 pixels, and the text "TAMID" should be centered vertically and to the right of the box. The box should have a padding of 20 pixels.
 
+   You should just submit the code for these two CSS classes.
+
 2. Make this code work in Javascript:
 
    ```
